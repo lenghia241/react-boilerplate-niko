@@ -2,6 +2,7 @@
 
 - Version 1.
 - Version 2: Add SASS and boilerplate for SASS
+- Version 3: Add Flow type
 
 ## Getting Started
 
